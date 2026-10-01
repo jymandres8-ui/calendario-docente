@@ -1,0 +1,15 @@
+CALENDARIO DOCENTE - VERSION CELULAR
+====================================
+Archivos:
+  index.html   -> estructura de la app
+  styles.css   -> diseño
+  app.js       -> funcionamiento
+  horario.js   -> TU HORARIO y fechas del año lectivo (edita aquí si cambia algo)
+  sw.js        -> funcionamiento sin internet
+  manifest.webmanifest + icons/ -> nombre e ícono al instalarla
+
+Probar en la PC: en VS Code instala la extensión "Live Server",
+clic derecho en index.html -> "Open with Live Server".
+
+Para el celular: publícala (GitHub Pages) y ábrela en Chrome -> "Instalar app".
+Si cambias archivos después, sube la versión en sw.js (v1 -> v2).
